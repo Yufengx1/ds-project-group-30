@@ -1,0 +1,40 @@
+Cleansing Data
+
+i. What i do to clean up the first data :
+1. seperated the result sheets in summary_L2 file from cell A:AM and AO:SN
+2. move cell S3:X3 to R3:W3
+3. move cell S3:X3 to X3:AC3
+4. move cell AE3:AJ3 to AD3:AI3
+5. rename R4:W4 by adding k_user
+6. rename X4:AC4 by adding Daily_Output
+7. rename AD4:AI4 by adding TPR_20,10
+
+ii. making new unique_id :
+1. making new column called index_row to maintain the order for every observation
+2. make new column called num_duplicate to rank the duplication in the each Audit_ID
+3. sort the audit value from largest to lowest
+4. make the the rank using this formula if(D6 = D5,C5+1,1) and apply this formula to all row in column num_duplicate
+5. retrieve the original order by sorting from smallest to larges in index_row
+6. make new column called New_id by combine value in Audit_ID &"_"& num_duplicate
+
+iii. change missing value to NA
+
+iv. Clean the second data :
+1. copy the sheet from AN:SN 
+2. add New_id below metric column
+3. add New column called "Unidentified_column :"
+4. add New matric row called "Energy_FFF :"
+5. add 1 in "Energy_FFF :" for value 10FFF or 6FFF in metric Energy
+6. add 0 in "Energy_FFF :" for value without FFF in metric Energy
+7. add NA in "Energy_FFF :" for NA value in metric Energy
+8. change missing value with NA
+9. change #N/A to NA
+
+question: 
+1. what is the name of column of rows 7 (row below Mode metric)?
+2. what is the column that remarks as Prescription Point? because there are so many NA value in it
+
+
+
+
+
