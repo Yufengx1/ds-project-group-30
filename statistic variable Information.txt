@@ -1,87 +1,298 @@
-Auditor1  is categorical variable. mode: Standard Millipede , number of missing value: 4504
-
-Auditor2  is categorical variable. mode: Miserable Eastern Gorilla , number of missing value: 4336
-
-Auditor3  is categorical variable. mode: Standard Millipede , number of missing value: 40065
-
-Manuf  is categorical variable. mode: Healthy Crocodile , number of missing value: 0
-
-Model  is categorical variable. mode: Old Bottle Nosed Dolphin , number of missing value: 0
-
-TPS  is categorical variable. mode: Accurate Horn Shark , number of missing value: 0
-
-Algorithm  is categorical variable. mode: Upbeat Macaw , number of missing value: 0
-
-Matched  is numeric variable. range from 0.0  to  5.0 , median value: 2.0 , mean value: 1.99 , skew value: 0.7 , number of outlier : 468 , number of missing value : 970
-
-k_Q Fac.  is categorical variable. mode: m , number of missing value: 166
-
-k_Q ACDS  is categorical variable. mode: m , number of missing value: 0
-
-Array  is categorical variable. mode: Gifted Australian Shepherd , number of missing value: 0
-
-S.N.  is numeric variable. range from 374.0  to  142066.0 , median value: 142063.0 , mean value: 88439.14 , skew value: -0.5 , number of outlier : 0 , number of missing value : 2997
-
-audit  is categorical variable. mode: 1.025 , number of missing value: 1358
-
-6_k_user  is numeric variable. range from 1.0022  to  1.032 , median value: 1.01 , mean value: 1.02 , skew value: 0.23 , number of outlier : 0 , number of missing value : 1427
-
-10_k_user  is numeric variable. range from 1.0  to  1.036 , median value: 1.01 , mean value: 1.01 , skew value: 0.47 , number of outlier : 0 , number of missing value : 5092
-
-15_k_user  is numeric variable. range from 1.0  to  1.035 , median value: 1.0 , mean value: 1.01 , skew value: 1.85 , number of outlier : 232 , number of missing value : 27345
-
-18_k_user  is numeric variable. range from 1.0  to  1.033 , median value: 1.01 , mean value: 1.01 , skew value: 1.03 , number of outlier : 0 , number of missing value : 18577
-
-6FFF_k_user  is numeric variable. range from 1.0082  to  1.11 , median value: 1.02 , mean value: 1.02 , skew value: 1.62 , number of outlier : 103 , number of missing value : 11554
-
-10FFF_k_user  is numeric variable. range from 1.0082  to  1.11 , median value: 1.01 , mean value: 1.02 , skew value: 2.43 , number of outlier : 103 , number of missing value : 17181
-
-6_Daily_Output  is numeric variable. range from 0.988  to  1.019 , median value: 1.0 , mean value: 1.0 , skew value: 0.43 , number of outlier : 474 , number of missing value : 883
-
-10_Daily_Output  is numeric variable. range from 0.984  to  1.017 , median value: 1.0 , mean value: 1.0 , skew value: 0.32 , number of outlier : 300 , number of missing value : 6650
-
-15_Daily_Output  is numeric variable. range from 0.9997  to  1.002 , median value: 1.0 , mean value: 1.0 , skew value: 0.35 , number of outlier : 0 , number of missing value : 42830
-
-18_Daily_Output  is numeric variable. range from 0.9917  to  1.016 , median value: 1.0 , mean value: 1.0 , skew value: 0.99 , number of outlier : 0 , number of missing value : 30837
-
-6FFF_Daily_Output  is numeric variable. range from 0.986  to  1.017 , median value: 1.0 , mean value: 1.0 , skew value: 0.2 , number of outlier : 150 , number of missing value : 15414
-
-10FFF_Daily_Output  is numeric variable. range from 0.994  to  1.014 , median value: 1.0 , mean value: 1.0 , skew value: 0.4 , number of outlier : 0 , number of missing value : 26464
-
-6__TPR_20,10  is numeric variable. range from 0.573  to  0.7 , median value: 0.67 , mean value: 0.67 , skew value: 0.11 , number of outlier : 156 , number of missing value : 2462
-
-10__TPR_20,10  is numeric variable. range from 0.63  to  0.746 , median value: 0.74 , mean value: 0.73 , skew value: -4.45 , number of outlier : 902 , number of missing value : 7082
-
-15__TPR_20,10  is numeric variable. range from 0.759  to  0.7614 , median value: 0.76 , mean value: 0.76 , skew value: -0.42 , number of outlier : 0 , number of missing value : 42924
-
-18__TPR_20,10  is numeric variable. range from 0.77  to  0.787 , median value: 0.78 , mean value: 0.78 , skew value: -1.79 , number of outlier : 417 , number of missing value : 30515
-
-6FFF__TPR_20,10  is numeric variable. range from 0.6225  to  0.739 , median value: 0.63 , mean value: 0.65 , skew value: 1.82 , number of outlier : 1146 , number of missing value : 16033
-
-10FFF__TPR_20,10  is numeric variable. range from 0.699  to  0.723 , median value: 0.71 , mean value: 0.71 , skew value: 2.38 , number of outlier : 977 , number of missing value : 26297
-
-version  is numeric variable. range from 11.0  to  17.0 , median value: 16.0 , mean value: 14.04 , skew value: -0.41 , number of outlier : 0 , number of missing value : 23762
-
-corr.  is categorical variable. mode: Dw , number of missing value: 0
-
-Alg.  is categorical variable. mode: 1 , number of missing value: 0
-
-Rev.  is numeric variable. range from 1.0  to  2.0 , median value: 1.0 , mean value: 1.05 , skew value: 4.22 , number of outlier : 2080 , number of missing value : 310
-
-Metric:  is categorical variable. mode: MinLocDiff , number of missing value: 0
-
-Case:  is categorical variable. mode: 14 , number of missing value: 0
-
-Depth:  is categorical variable. mode: 15 , number of missing value: 0
-
-Energy:  is numeric variable. range from 6.0  to  18.0 , median value: 6.0 , mean value: 8.03 , skew value: 1.77 , number of outlier : 1942 , number of missing value : 757
-
-Energy_FFF :  is numeric variable. range from 0.0  to  1.0 , median value: 0.0 , mean value: 0.24 , skew value: 1.19 , number of outlier : 0 , number of missing value : 757
-
-Gantry:  is categorical variable. mode: 0 , number of missing value: 0
-
-Mode:  is categorical variable. mode: 1 , number of missing value: 0
-
-Unidentified_column :  is numeric variable. range from 1.0  to  2.0 , median value: 1.0 , mean value: 1.49 , skew value: 0.03 , number of outlier : 0 , number of missing value : 29001
-
-predictedValue  is numeric variable. range from -0.4290067085475666  to  2467.522 , median value: 0.01 , mean value: 69.97 , skew value: 3.95 , number of outlier : 1388 , number of missing value : 0
+Auditor1 is categorical variable with basic information:
+number of unique group: 27 
+mode: Standard Millipede 
+number of missing value: 4504
+====================================================
+Auditor2 is categorical variable with basic information:
+number of unique group: 47 
+mode: Miserable Eastern Gorilla 
+number of missing value: 4336
+====================================================
+Auditor3 is categorical variable with basic information:
+number of unique group: 16 
+mode: Standard Millipede 
+number of missing value: 40065
+====================================================
+Manuf is categorical variable with basic information:
+number of unique group: 3 
+mode: Healthy Crocodile 
+number of missing value: 0
+====================================================
+Model is categorical variable with basic information:
+number of unique group: 16 
+mode: Old Bottle Nosed Dolphin 
+number of missing value: 0
+====================================================
+TPS is categorical variable with basic information:
+number of unique group: 5 
+mode: Accurate Horn Shark 
+number of missing value: 0
+====================================================
+Algorithm is categorical variable with basic information:
+number of unique group: 8 
+mode: Upbeat Macaw 
+number of missing value: 0
+====================================================
+Matched is numeric variable with basic information:
+range from 0.0 to 5.0 
+median value: 2.0 
+mean value: 1.99 
+skew value: 0.7 
+number of outlier : 468 
+number of missing value : 970
+====================================================
+k_QFac. is categorical variable with basic information:
+number of unique group: 3 
+mode: m 
+number of missing value: 166
+====================================================
+k_QACDS is categorical variable with basic information:
+number of unique group: 2 
+mode: m 
+number of missing value: 0
+====================================================
+Array is categorical variable with basic information:
+number of unique group: 4 
+mode: Gifted Australian Shepherd 
+number of missing value: 0
+====================================================
+S.N. is numeric variable with basic information:
+range from 374.0 to 142066.0 
+median value: 142063.0 
+mean value: 88439.14 
+skew value: -0.5 
+number of outlier : 0 
+number of missing value : 2997
+====================================================
+audit is categorical variable with basic information:
+number of unique group: 73 
+mode: 1.025 
+number of missing value: 1358
+====================================================
+6_k_user is numeric variable with basic information:
+range from 1.0 to 1.03 
+median value: 1.01 
+mean value: 1.02 
+skew value: 0.23 
+number of outlier : 0 
+number of missing value : 1427
+====================================================
+10_k_user is numeric variable with basic information:
+range from 1.0 to 1.04 
+median value: 1.01 
+mean value: 1.01 
+skew value: 0.47 
+number of outlier : 0 
+number of missing value : 5092
+====================================================
+15_k_user is numeric variable with basic information:
+range from 1.0 to 1.03 
+median value: 1.0 
+mean value: 1.01 
+skew value: 1.85 
+number of outlier : 232 
+number of missing value : 27345
+====================================================
+18_k_user is numeric variable with basic information:
+range from 1.0 to 1.03 
+median value: 1.01 
+mean value: 1.01 
+skew value: 1.03 
+number of outlier : 0 
+number of missing value : 18577
+====================================================
+6FFF_k_user is numeric variable with basic information:
+range from 1.01 to 1.11 
+median value: 1.02 
+mean value: 1.02 
+skew value: 1.62 
+number of outlier : 103 
+number of missing value : 11554
+====================================================
+10FFF_k_user is numeric variable with basic information:
+range from 1.01 to 1.11 
+median value: 1.01 
+mean value: 1.02 
+skew value: 2.43 
+number of outlier : 103 
+number of missing value : 17181
+====================================================
+6_Daily_Output is numeric variable with basic information:
+range from 0.99 to 1.02 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.43 
+number of outlier : 474 
+number of missing value : 883
+====================================================
+10_Daily_Output is numeric variable with basic information:
+range from 0.98 to 1.02 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.32 
+number of outlier : 300 
+number of missing value : 6650
+====================================================
+15_Daily_Output is numeric variable with basic information:
+range from 1.0 to 1.0 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.35 
+number of outlier : 0 
+number of missing value : 42830
+====================================================
+18_Daily_Output is numeric variable with basic information:
+range from 0.99 to 1.02 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.99 
+number of outlier : 0 
+number of missing value : 30837
+====================================================
+6FFF_Daily_Output is numeric variable with basic information:
+range from 0.99 to 1.02 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.2 
+number of outlier : 150 
+number of missing value : 15414
+====================================================
+10FFF_Daily_Output is numeric variable with basic information:
+range from 0.99 to 1.01 
+median value: 1.0 
+mean value: 1.0 
+skew value: 0.4 
+number of outlier : 0 
+number of missing value : 26464
+====================================================
+6__TPR_20,10 is numeric variable with basic information:
+range from 0.57 to 0.7 
+median value: 0.67 
+mean value: 0.67 
+skew value: 0.11 
+number of outlier : 156 
+number of missing value : 2462
+====================================================
+10__TPR_20,10 is numeric variable with basic information:
+range from 0.63 to 0.75 
+median value: 0.74 
+mean value: 0.73 
+skew value: -4.45 
+number of outlier : 902 
+number of missing value : 7082
+====================================================
+15__TPR_20,10 is numeric variable with basic information:
+range from 0.76 to 0.76 
+median value: 0.76 
+mean value: 0.76 
+skew value: -0.42 
+number of outlier : 0 
+number of missing value : 42924
+====================================================
+18__TPR_20,10 is numeric variable with basic information:
+range from 0.77 to 0.79 
+median value: 0.78 
+mean value: 0.78 
+skew value: -1.79 
+number of outlier : 417 
+number of missing value : 30515
+====================================================
+6FFF__TPR_20,10 is numeric variable with basic information:
+range from 0.62 to 0.74 
+median value: 0.63 
+mean value: 0.65 
+skew value: 1.82 
+number of outlier : 1146 
+number of missing value : 16033
+====================================================
+10FFF__TPR_20,10 is numeric variable with basic information:
+range from 0.7 to 0.72 
+median value: 0.71 
+mean value: 0.71 
+skew value: 2.38 
+number of outlier : 977 
+number of missing value : 26297
+====================================================
+version is numeric variable with basic information:
+range from 11.0 to 17.0 
+median value: 16.0 
+mean value: 14.04 
+skew value: -0.41 
+number of outlier : 0 
+number of missing value : 23762
+====================================================
+corr. is categorical variable with basic information:
+number of unique group: 2 
+mode: Dw 
+number of missing value: 0
+====================================================
+Alg. is categorical variable with basic information:
+number of unique group: 3 
+mode: 1 
+number of missing value: 0
+====================================================
+Rev. is numeric variable with basic information:
+range from 1.0 to 2.0 
+median value: 1.0 
+mean value: 1.05 
+skew value: 4.22 
+number of outlier : 2080 
+number of missing value : 310
+====================================================
+Metric is categorical variable with basic information:
+number of unique group: 15 
+mode: MinLocDiff 
+number of missing value: 0
+====================================================
+Case is categorical variable with basic information:
+number of unique group: 16 
+mode: 14 
+number of missing value: 0
+====================================================
+Depth is categorical variable with basic information:
+number of unique group: 4 
+mode: 15 
+number of missing value: 0
+====================================================
+Energy is numeric variable with basic information:
+range from 6.0 to 18.0 
+median value: 6.0 
+mean value: 8.03 
+skew value: 1.77 
+number of outlier : 1942 
+number of missing value : 757
+====================================================
+Energy_FFF is numeric variable with basic information:
+range from 0.0 to 1.0 
+median value: 0.0 
+mean value: 0.24 
+skew value: 1.19 
+number of outlier : 0 
+number of missing value : 757
+====================================================
+Gantry is categorical variable with basic information:
+number of unique group: 2 
+mode: 0 
+number of missing value: 0
+====================================================
+Mode is categorical variable with basic information:
+number of unique group: 3 
+mode: 1 
+number of missing value: 0
+====================================================
+Unidentified_column is numeric variable with basic information:
+range from 1.0 to 2.0 
+median value: 1.0 
+mean value: 1.49 
+skew value: 0.03 
+number of outlier : 0 
+number of missing value : 29001
+====================================================
+predictedValue is numeric variable with basic information:
+range from -0.43 to 2467.52 
+median value: 0.01 
+mean value: 69.97 
+skew value: 3.95 
+number of outlier : 1388 
+number of missing value : 0
+====================================================
