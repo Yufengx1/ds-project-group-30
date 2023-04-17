@@ -1,42 +1,42 @@
 Auditor1 is categorical variable with basic information:
 number of unique group: 27 
-mode: Standard Millipede 
+mode: Standard Millipede  ( 24.36 %)
 number of missing value: 4504  ( 11.56 %)
 number non mising value : 38972
 ====================================================
 Auditor2 is categorical variable with basic information:
 number of unique group: 47 
-mode: Miserable Eastern Gorilla 
+mode: Miserable Eastern Gorilla  ( 10.65 %)
 number of missing value: 4336  ( 11.08 %)
 number non mising value : 39140
 ====================================================
 Auditor3 is categorical variable with basic information:
 number of unique group: 16 
-mode: Standard Millipede 
+mode: Standard Millipede  ( 20.35 %)
 number of missing value: 40065  ( 1174.58 %)
 number non mising value : 3411
 ====================================================
 Manuf is categorical variable with basic information:
 number of unique group: 3 
-mode: Healthy Crocodile 
+mode: Healthy Crocodile  ( 72.59 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Model is categorical variable with basic information:
 number of unique group: 16 
-mode: Old Bottle Nosed Dolphin 
+mode: Old Bottle Nosed Dolphin  ( 57.66 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 TPS is categorical variable with basic information:
 number of unique group: 5 
-mode: Accurate Horn Shark 
+mode: Accurate Horn Shark  ( 63.99 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Algorithm is categorical variable with basic information:
 number of unique group: 8 
-mode: Upbeat Macaw 
+mode: Upbeat Macaw  ( 26.9 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
@@ -51,19 +51,19 @@ number non mising value : 42506
 ====================================================
 k_QFac. is categorical variable with basic information:
 number of unique group: 3 
-mode: m 
+mode: m  ( 71.21 %)
 number of missing value: 166  ( 0.38 %)
 number non mising value : 43310
 ====================================================
 k_QACDS is categorical variable with basic information:
 number of unique group: 2 
-mode: m 
+mode: m  ( 95.95 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Array is categorical variable with basic information:
 number of unique group: 4 
-mode: Gifted Australian Shepherd 
+mode: Gifted Australian Shepherd  ( 57.87 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
@@ -78,7 +78,7 @@ number non mising value : 40479
 ====================================================
 audit is categorical variable with basic information:
 number of unique group: 73 
-mode: 1.025 
+mode: 1.025  ( 7.78 %)
 number of missing value: 1358  ( 3.22 %)
 number non mising value : 42118
 ====================================================
@@ -255,13 +255,13 @@ number non mising value : 19714
 ====================================================
 corr. is categorical variable with basic information:
 number of unique group: 2 
-mode: Dw 
+mode: Dw  ( 74.52 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Alg. is categorical variable with basic information:
 number of unique group: 3 
-mode: 1 
+mode: 1  ( 91.66 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
@@ -276,19 +276,19 @@ number non mising value : 43166
 ====================================================
 Metric is categorical variable with basic information:
 number of unique group: 15 
-mode: MinLocDiff 
+mode: MinLocDiff  ( 18.41 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Case is categorical variable with basic information:
 number of unique group: 16 
-mode: 14 
+mode: 14  ( 18.76 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Depth is categorical variable with basic information:
 number of unique group: 4 
-mode: 15 
+mode: 15  ( 66.19 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
@@ -312,13 +312,13 @@ number non mising value : 42719
 ====================================================
 Gantry is categorical variable with basic information:
 number of unique group: 2 
-mode: 0 
+mode: 0  ( 62.95 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
 Mode is categorical variable with basic information:
 number of unique group: 3 
-mode: 1 
+mode: 1  ( 55.0 %)
 number of missing value: 0  ( 0.0 %)
 number non mising value : 43476
 ====================================================
