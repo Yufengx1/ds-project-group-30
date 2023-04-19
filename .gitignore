@@ -1,0 +1,4 @@
+
+*.jupyterlab-workspace
+.ipynb_checkpoints/Numerical Variable Analysis-checkpoint.ipynb
+.ipynb_checkpoints/feature_analysis-checkpoint.ipynb
